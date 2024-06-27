@@ -19,15 +19,8 @@ The main file is The main file is [LinearRegression.ipynb](LinearRegression.ipyn
 ```
 
 
-## Authors
-
-* [tugot17](https://github.com/tugot17)
-* [FeederDiver](https://github.com/FeederDiver) 
-
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
-hello world
